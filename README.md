@@ -37,4 +37,19 @@ Time spent: **5** hours spent in total
               68.183.123.55  116
               209.141.56.95  112
                 185.8.50.73  103
-        
+                
+         c. Top Source Port:
+                  Port   Freq
+                 44828   43
+                 13714   29
+                 51422   19
+                 45629   17
+                 
+         d. Top Destination Port:
+                Port  Freq
+                8088 1552
+                  23  209
+                8080  127
+                  80   96
+                 445   68
+                 
