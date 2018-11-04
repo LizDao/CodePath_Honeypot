@@ -21,7 +21,7 @@ Time spent: **5** hours spent in total
          - After deployed and attack the honeypot, I can see the number of attack increased in the View Sensors page but nothing
          showed on the the Attack page. And when I tried to export json report, it showed 0 record exported.
        
-         - Fix: ![MHN Troubleshooting Guide] (https://github.com/threatstream/mhn/wiki/MHN-Troubleshooting-Guide) 
+         - Fix: [MHN Troubleshooting Guide] (https://github.com/threatstream/mhn/wiki/MHN-Troubleshooting-Guide) 
                 Section: "I have an internally deployed honeypot and even when I scan it, I see not events in MHN."
        
     
