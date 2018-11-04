@@ -26,8 +26,15 @@ Time spent: **5** hours spent in total
        
     
     3. Summary of data:   
-        a. number of attacks:
+        a. Number of attacks:
             - Honeypot 1: 3616 attacks (within 3 days)
             - Honeypot 2: 89 attacks (within 3 hours)
-        b. 
+        b. Top Source IP:
+                Source_IP    Freq
+               35.239.84.63  992
+             185.244.25.164  298
+             209.141.35.236  141
+              68.183.123.55  116
+              209.141.56.95  112
+                185.8.50.73  103
         
