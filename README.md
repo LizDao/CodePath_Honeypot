@@ -28,19 +28,18 @@ Time spent: **5** hours spent in total
             - Honeypot 1: 3616 attacks (within 3 days)
             - Honeypot 2: 89 attacks (within 3 hours)
         2. Top Source IP:
-               | Source_IP  |  Freq |
-              | --------------|--------|
-              | 35.239.84.63  |992  |
-            | 185.244.25.164  |298 |
-            | 209.141.35.236 | 141 |
-             | 68.183.123.55 | 116 |
-             | 209.141.56.95 | 112 |
-              |  185.8.50.73 | 103 |
+        
+                 Source_IP   Freq          
+                 35.239.84.63  992  
+               185.244.25.164  298 
+               209.141.35.236  141 
+                68.183.123.55  116 
+                209.141.56.95  112 
+                  185.8.50.73  103 
               
- Source IP | Frequency | 
---- | --- | ---
-1 | 2 | 3                
+              
          3. Top Source Port:
+         
                   Port   Freq
                  44828   43
                  13714   29
@@ -48,6 +47,7 @@ Time spent: **5** hours spent in total
                  45629   17
                  
          4. Top Destination Port:
+         
                 Port  Freq
                 8088 1552
                   23  209
