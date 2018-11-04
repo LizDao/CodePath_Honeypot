@@ -29,7 +29,7 @@ Time spent: **5** hours spent in total
             - Honeypot 2: 89 attacks (within 3 hours)
         2. Top Source IP:
                | Source_IP  |  Freq |
-               --------------|--------|
+              | --------------|--------|
               | 35.239.84.63  |992  |
             | 185.244.25.164  |298 |
             | 209.141.35.236 | 141 |
