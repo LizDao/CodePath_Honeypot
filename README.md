@@ -36,6 +36,12 @@ Time spent: **5** hours spent in total
              | 68.183.123.55 | 116 |
              | 209.141.56.95 | 112 |
               |  185.8.50.73 | 103 |
+              
+              | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
                 
          3. Top Source Port:
                   Port   Freq
