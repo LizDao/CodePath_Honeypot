@@ -4,15 +4,12 @@
 Time spent: **5** hours spent in total
 
 > Objective: Stand up a basic honeypot and demonstrate its effectiveness at detecting and/or collecting data about an attack
-
-## Pentesting Report
-
-    1. I deployed 2 honeypots:
+  1. I deployed 2 honeypots:
       a. mhn-honeypot-1
       b. mhn-honeypot-2
       
       
-    2. Issues I encountered:
+   2. Issues I encountered:
       a. Session Timeout: 
         - When I tried to load the external IP in a browser, it gave me a timeout error every time. 
         - Fix:   Find the mhn-admin VM under "Instances" and click on "Edit". Under the "Firewalls" settings 
@@ -25,7 +22,7 @@ Time spent: **5** hours spent in total
                 Section: "I have an internally deployed honeypot and even when I scan it, I see not events in MHN."
        
     
-    3. Summary of data:   
+   3. Summary of data:   
         a. Number of attacks:
             - Honeypot 1: 3616 attacks (within 3 days)
             - Honeypot 2: 89 attacks (within 3 hours)
