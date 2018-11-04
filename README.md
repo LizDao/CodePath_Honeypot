@@ -53,8 +53,7 @@ Time spent: **5** hours spent in total
                   80   96
                  445   68
                  
-                 
-                 Markdown | Less | Pretty
-                 --- | --- | ---
-                *Still* | `renders` | **nicely**
-                  1 | 2 | 3
+ Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
