@@ -37,11 +37,6 @@ Time spent: **5** hours spent in total
              | 209.141.56.95 | 112 |
               |  185.8.50.73 | 103 |
               
-              | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
                 
          3. Top Source Port:
                   Port   Freq
@@ -58,3 +53,8 @@ Time spent: **5** hours spent in total
                   80   96
                  445   68
                  
+                 
+                 Markdown | Less | Pretty
+                 --- | --- | ---
+                *Still* | `renders` | **nicely**
+                  1 | 2 | 3
