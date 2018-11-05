@@ -60,4 +60,4 @@ Time spent: **5** hours spent in total
    5. Session Data Report    
       [json file](https://github.com/LizDao/CodePath_Honeypot/blob/master/session.json)
       
-      [csv file]((https://github.com/LizDao/CodePath_Honeypot/blob/master/session2.csv)
+      [csv file](https://github.com/LizDao/CodePath_Honeypot/blob/master/session2.csv)
