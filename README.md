@@ -57,5 +57,7 @@ Time spent: **5** hours spent in total
     
    4. There were no malware captured
         ![pay load screen shot](https://github.com/LizDao/CodePath_Honeypot/blob/master/Screenshot_2018-11-04%20Payloads.png)
-        
-        
+   5. Session Data Report    
+      [json file](https://github.com/LizDao/CodePath_Honeypot/blob/master/session.json)
+      
+      [csv file]((https://github.com/LizDao/CodePath_Honeypot/blob/master/session2.csv)
